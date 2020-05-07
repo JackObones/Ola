@@ -1,0 +1,7 @@
+C:\Users\gdrag\Desktop\C#\TesteGit\TesteGit\bin\Debug\TesteGit.exe.config
+C:\Users\gdrag\Desktop\C#\TesteGit\TesteGit\bin\Debug\TesteGit.exe
+C:\Users\gdrag\Desktop\C#\TesteGit\TesteGit\bin\Debug\TesteGit.pdb
+C:\Users\gdrag\Desktop\C#\TesteGit\TesteGit\obj\Debug\TesteGit.csprojAssemblyReference.cache
+C:\Users\gdrag\Desktop\C#\TesteGit\TesteGit\obj\Debug\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\gdrag\Desktop\C#\TesteGit\TesteGit\obj\Debug\TesteGit.exe
+C:\Users\gdrag\Desktop\C#\TesteGit\TesteGit\obj\Debug\TesteGit.pdb
